@@ -1,0 +1,10 @@
+path: C:/Users/khj/Desktop/animals/yolov5/
+train: C:/Users/khj/Desktop/animals/images/train/
+val: C:/Users/khj/Desktop/animals/images/val/
+test: C:/Users/khj/Desktop/animals/images/test/
+
+# number of classes
+nc: 6
+# class names
+names: ['wildboar', 'roe_deer', 'magpie', 'goose', 'mallard duck', 'sparrow']
+
